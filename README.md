@@ -1,2 +1,8 @@
-# 3803ict-workshops
-Puneet s5364559
+# 3803ICT
+
+Full Name: Puneet
+
+sNumber: s5364559
+
+Griffith email: puneet2@griffithuni.edu.au
+
